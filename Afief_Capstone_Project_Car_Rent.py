@@ -9,7 +9,7 @@ datax = {
     12202202:{
         'Nomor Plat':'B 612 AA',
         'Nama Driver':'Asep',
-        'Merk':'Avanza',
+        'Merk':'Innova',
         'Tanggal Peminjaman':'3 Desember 1996',
         'Lama Peminjaman':'3 Hari'
     }
