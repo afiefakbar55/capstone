@@ -10,7 +10,7 @@ datax = {
         'Nomor Plat':'B 612 AA',
         'Nama Driver':'Asep',
         'Merk':'Avanza',
-        'Tanggal Peminjaman':'1 Desember 1996',
+        'Tanggal Peminjaman':'3 Desember 1996',
         'Lama Peminjaman': '3 hari'
     }
 }
