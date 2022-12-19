@@ -207,6 +207,8 @@ def update():
                                 print('\nSelamat anda berhasil mengubah data X-Car Rent!\n')
                             else:
                                 print('Masukkan kategori saja!\n')
+                else:
+                    print('Masukkan y atau n saja!\n')
             else:
                 print('\nData tidak ditemukan !')
                 n_keluar()
